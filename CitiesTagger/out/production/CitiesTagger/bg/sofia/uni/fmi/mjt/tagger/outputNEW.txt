@@ -1,0 +1,4 @@
+<city country="Bulgaria">Plovdiv</city>'s old town is a major tourist attraction. It is the <city country="Canada">London</city>, second largest city
+in Bulgaria, after the <city country="Russia">Moscow</city> <city country="Russia">Moscow</city> capital ,<city country="Bulgaria">Sofia</city>.
+<city country="Germany">Aachen</city>'s old town is a major tourist <city country="Austria">Vienna</city> <city country="Bulgaria">Sofia</city> attraction. It is the second <city country="Canada">London</city> largest city
+in Bulgaria, after the ,<city country="Bulgaria">Sofia</city>, capital ,<city country="Germany">Berlin</city>,<city country="Russia">Moscow</city>,<city country="Russia">Moscow</city>,<city country="Russia">Moscow</city>,<city country="Russia">Moscow</city>,<city country="Russia">Moscow</city>,<city country="Russia">Moscow</city>.

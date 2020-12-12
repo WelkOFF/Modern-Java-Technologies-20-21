@@ -1,0 +1,1 @@
+<city country="Bulgaria">Sofia</city> is smaller than <city country="Germany">Berlin</city>.
